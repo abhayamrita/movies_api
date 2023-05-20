@@ -1,0 +1,122 @@
+[
+    {
+        "name": "Aazam",
+        "release_date": "2023-05-26",
+        "rating": 4
+    },
+    {
+        "name": "Chhipkali",
+        "release_date": "2023-05-26",
+        "rating": 2
+    },
+    {
+        "name": "Coat",
+        "release_date": "2023-05-26",
+        "rating": 2
+    },
+    {
+        "name": "Zara Hatke Zara Bachke",
+        "release_date": "2023-06-02",
+        "rating": 2
+    },
+    {
+        "name": "Shaktimaan",
+        "release_date": "2023-06-05",
+        "rating": 2
+    },
+    {
+        "name": "Bloody Daddy",
+        "release_date": "2023-06-09",
+        "rating": 2
+    },
+    {
+        "name": "Adipurush",
+        "release_date": "2023-06-16",
+        "rating": 2
+    },
+    {
+        "name": "Maidaan",
+        "release_date": "2023-06-23",
+        "rating": 2
+    },
+    {
+        "name": "SatyaPrem Ki Katha",
+        "release_date": "2023-06-29",
+        "rating": 2
+    },
+    {
+        "name": "Neeyat",
+        "release_date": "2023-07-07",
+        "rating": 2
+    },
+    {
+        "name": "Rocky Aur Rani Ki Prem Kahani",
+        "release_date": "2023-07-28",
+        "rating": 2
+    },
+    {
+        "name": "JGM",
+        "release_date": "2023-08-03",
+        "rating": 2
+    },
+    {
+        "name": "Animal",
+        "release_date": "2023-08-11",
+        "rating": 2
+    },
+    {
+        "name": "Gadar 2: The Katha Continues",
+        "release_date": "2023-08-11",
+        "rating": 2
+    },
+    {
+        "name": "Dream Girl 2",
+        "release_date": "2023-08-25",
+        "rating": 2
+    },
+    {
+        "name": "Jawan",
+        "release_date": "2023-09-07",
+        "rating": 2
+    },
+    {
+        "name": "SRI",
+        "release_date": "2023-09-15",
+        "rating": 2
+    },
+    {
+        "name": "Yodha",
+        "release_date": "2023-09-15",
+        "rating": 2
+    },
+    {
+        "name": "Bawaal",
+        "release_date": "2023-10-06",
+        "rating": 2
+    },
+    {
+        "name": "Ganapath",
+        "release_date": "2023-10-20",
+        "rating": 2
+    },
+    {
+        "name": "Yaariyan 2",
+        "release_date": "2023-10-20",
+        "rating": 2
+    },
+    {
+        "name": "Fukrey 3",
+        "release_date": "2023-11-24",
+        "rating": 2
+    },
+    {
+        "name": "Metro... In dhino",
+        "release_date": "2023-12-08",
+        "rating": 2
+    },
+    {
+        "name": "Bade Miyan Chote Miyan",
+        "release_date": "2023-12-25",
+        "rating": 2
+    }
+]
